@@ -11,6 +11,8 @@ npm install
 ```
 make run
 ```
+Visit localhost:3000
+
 #### For client development
 ```
 npm start
